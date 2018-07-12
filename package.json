@@ -1,0 +1,20 @@
+{
+  "name": "locale-init-js",
+  "version": "1.0.0",
+  "description": "JavaScript customized localization functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VJD7/locale-init-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VJD7/locale-init-js/issues"
+  },
+  "homepage": "https://github.com/VJD7/locale-init-js#readme"
+}
