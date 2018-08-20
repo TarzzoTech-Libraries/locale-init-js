@@ -1,6 +1,6 @@
 # **locale-init-js**
 
-_version 1.0.0_
+_version 1.1.1_
 
 ---
 
